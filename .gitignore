@@ -1,0 +1,15 @@
+# Python sanal ortamları ve cache dosyaları
+venv/
+env/
+.venv/
+.Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE ve proje ayar dosyalari
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

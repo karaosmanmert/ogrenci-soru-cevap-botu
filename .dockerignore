@@ -1,0 +1,22 @@
+
+
+# Python cache ve derlenmis dosyalari
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasorleri
+env/
+venv/
+.venv/
+
+# IDE ve proje ayar dosyalari
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Git dosyalari
+.git/
+.gitignore
